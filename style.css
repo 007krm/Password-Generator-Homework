@@ -135,3 +135,7 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
+.card-questions {
+  display: none;
+}
